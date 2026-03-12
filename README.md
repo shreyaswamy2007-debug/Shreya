@@ -17,7 +17,7 @@ Reach me at: **gayadolliadarsh@gmail.com**
 ---
 ## 🌐 Socials
 [![Instagram
-[LinkedIn] [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/gayadolli36792) [![YouTube](
+[LinkedIn] [![Twitter] [![YouTube](
 
 ---
 
