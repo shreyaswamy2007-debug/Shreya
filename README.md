@@ -1,5 +1,5 @@
-#<div aling="center"> Hi,I'm "Shreya"</div>
-# <div align="center">👋 Hi, I’m **Adarsh Gayadolli**</div>
+
+# <div align="center">👋 Hi, I’m **Shreya**</div>
 
 ---
 
@@ -16,9 +16,8 @@ Reach me at: **gayadolliadarsh@gmail.com**
 
 ---
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adarsh_1_0_1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-gayadolli-6a2584254/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/gayadolli36792) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Adarsh-u8x6i)
-
-
+[![Instagram
+[LinkedIn] [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/gayadolli36792) [![YouTube](
 
 ---
 
