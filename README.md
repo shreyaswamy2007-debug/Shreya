@@ -4,7 +4,7 @@
 ---
 
 ## 👀 Profile Visitors:
-![Visitor Count](https://komarev.com/ghpvc/?username=Adarshpg&color=blue&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=Shreya&color=blue&style=for-the-badge)
 
 ---
 
