@@ -9,9 +9,9 @@
 ---
 
 ### 💻 About Me
-I’m an Engineering student 🎓  AI & ML
-Learning and exploring new technologies 💻
-Growing,learning and building 🌱
+I’m an Engineering student 🎓 | AI & ML,
+Learning and exploring new technologies 💻,
+Growing,learning and building 🌱.
 
 ---
 ## 🌐 Socials
