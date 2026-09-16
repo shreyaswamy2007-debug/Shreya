@@ -15,7 +15,7 @@ Growing,learning and building 🌱.
 
 ---
 ## 🌐 Socials
-[! [LinkedIn] ](
+[! [LinkedIn] ](www.linkedin.com/in/shreya-j-s-032859437)
 
 ---
 
